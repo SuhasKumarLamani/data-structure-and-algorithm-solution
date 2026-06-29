@@ -1,4 +1,4 @@
-#1480 . Running Sum of 1d Array
+#724 . Find Pivot Index
 
 ##Difficulty
 
@@ -10,4 +10,4 @@ o(n^2)
 
 ##Space complexity
 
-o(n)
+o(1)
