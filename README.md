@@ -55,10 +55,10 @@ My goal is to
 
 | Platform | Problems Solved |
 |-----------|----------------:|
-| 🟩 LeetCode | 0 |
+| 🟩 LeetCode | 1 |
 | 🟦 Codeforces | 0 |
 | 🟨 HackerRank | 0 |
-| **Total** | **0** |
+| **Total** | **1** |
 
 > ⭐ I update this repository regularly as I solve new problems.
 
@@ -127,7 +127,7 @@ Each solution generally includes
 # 📈 Progress Tracker
 
 ```
-LeetCode      █░░░░░░░░░░░░░░░░░░░░   0%
+LeetCode      █░░░░░░░░░░░░░░░░░░░░   0.2%
 
 Codeforces    █░░░░░░░░░░░░░░░░░░░░   0%
 
@@ -156,7 +156,7 @@ If you find any better solution or optimization, feel free to open an Issue or P
 
 # 📅 Last Updated
 
-**June 2026**
+**Last Updated:**June 2026
 
 ---
 
