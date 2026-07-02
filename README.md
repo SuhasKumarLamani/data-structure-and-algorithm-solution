@@ -55,7 +55,7 @@ My goal is to
 
 | Platform | Problems Solved |
 |-----------|----------------:|
-| 🟩 LeetCode | 6 |
+| 🟩 LeetCode | 8 |
 | 🟦 Codeforces | 0 |
 | 🟨 HackerRank | 0 |
 | **Total** | **6** |
@@ -127,7 +127,7 @@ Each solution generally includes
 # 📈 Progress Tracker
 
 ```
-LeetCode      █░░░░░░░░░░░░░░░░░░░░   6 problems
+LeetCode      █░░░░░░░░░░░░░░░░░░░░   8 problems
 
 Codeforces    █░░░░░░░░░░░░░░░░░░░░   0 problems
 
