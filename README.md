@@ -55,10 +55,10 @@ My goal is to
 
 | Platform | Problems Solved |
 |-----------|----------------:|
-| 🟩 LeetCode | 8 |
+| 🟩 LeetCode | 10 |
 | 🟦 Codeforces | 0 |
 | 🟨 HackerRank | 0 |
-| **Total** | **6** |
+| **Total** | **10** |
 
 > ⭐ I update this repository regularly as I solve new problems.
 
@@ -127,7 +127,7 @@ Each solution generally includes
 # 📈 Progress Tracker
 
 ```
-LeetCode      █░░░░░░░░░░░░░░░░░░░░   8 problems
+LeetCode      █░░░░░░░░░░░░░░░░░░░░   10 problems
 
 Codeforces    █░░░░░░░░░░░░░░░░░░░░   0 problems
 
